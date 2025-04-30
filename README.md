@@ -38,8 +38,10 @@ using Java, Selenium WebDriver, and TestNG.
 # Steps to Create Project :  
 
 - Hybrid Automation Framework  
-(Java, Selenium, TestNG, Maven & Page Object Model) 
- 
+(Java, Selenium, TestNG, Maven & Page Object Model)
+  
+ ![image](https://github.com/user-attachments/assets/cd72f433-82c3-44a4-953c-12b118f36c88)
+
 
 # Create a new Maven Project   
 - Add required dependencies in pom.xml (Please check links below)   
