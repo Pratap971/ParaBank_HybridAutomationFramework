@@ -1,7 +1,8 @@
 # ParaBank Hybrid Automation Framework  
-This project is a Hybrid Automation Framework designed for automating the functional testing of the ParaBank web application.  
-The framework combines the strengths of Page Object Model (POM), data-driven testing, and modular test design  
-using Java, Selenium WebDriver, and TestNG.  
+This project is a Hybrid Automation Framework designed for automating the functional  
+testing of the ParaBank web application. The framework combines the strengths of Page  
+Object Model (POM), data-driven testing, and modular test design using Java, Selenium  
+WebDriver, and TestNG.    
 
 #  Tech Stack :  
 
