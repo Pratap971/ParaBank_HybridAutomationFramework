@@ -1,0 +1,70 @@
+2025-04-30 08:28:41 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 08:30:31 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 08:33:12 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 08:36:34 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 08:37:13 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 08:57:12 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 08:57:49 INFO  TC_002Login:17 - Starting the login test case...
+2025-04-30 08:58:09 INFO  TC_001Register:16 -  *** starting home page ***
+2025-04-30 08:58:11 INFO  TC_001Register:24 - *** Starting register page ***
+2025-04-30 08:58:13 INFO  TC_001Register:40 - *** validate register test case ***
+2025-04-30 08:58:15 INFO  TC_001Register:54 - *** end of register page ***
+2025-04-30 09:03:23 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 09:04:00 INFO  TC_002Login:17 - Starting the login test case...
+2025-04-30 09:04:22 INFO  TC_001Register:16 -  *** starting home page ***
+2025-04-30 09:04:23 INFO  TC_001Register:24 - *** Starting register page ***
+2025-04-30 09:04:26 INFO  TC_001Register:40 - *** validate register test case ***
+2025-04-30 09:04:26 INFO  TC_001Register:54 - *** end of register page ***
+2025-04-30 09:05:55 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 09:06:36 INFO  TC_001Register:16 -  *** starting home page ***
+2025-04-30 09:06:38 INFO  TC_001Register:24 - *** Starting register page ***
+2025-04-30 09:06:40 INFO  TC_001Register:40 - *** validate register test case ***
+2025-04-30 09:06:40 INFO  TC_001Register:54 - *** end of register page ***
+2025-04-30 09:07:39 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 09:07:54 INFO  TC_001Register:16 -  *** starting home page ***
+2025-04-30 09:07:55 INFO  TC_001Register:24 - *** Starting register page ***
+2025-04-30 09:07:57 INFO  TC_001Register:40 - *** validate register test case ***
+2025-04-30 09:07:57 INFO  TC_001Register:54 - *** end of register page ***
+2025-04-30 09:08:10 INFO  TC_002Login:17 - Starting the login test case...
+2025-04-30 09:11:58 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 09:12:13 INFO  TC_001Register:16 -  *** starting home page ***
+2025-04-30 09:12:14 INFO  TC_001Register:24 - *** Starting register page ***
+2025-04-30 09:12:17 INFO  TC_001Register:40 - *** validate register test case ***
+2025-04-30 09:12:17 INFO  TC_001Register:54 - *** end of register page ***
+2025-04-30 09:12:34 INFO  TC_002Login:17 - Starting the login test case...
+2025-04-30 09:16:07 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\testngMain.xml
+
+2025-04-30 09:16:25 INFO  TC_001Register:16 -  *** starting home page ***
+2025-04-30 09:16:26 INFO  TC_001Register:24 - *** Starting register page ***
+2025-04-30 09:16:29 INFO  TC_001Register:40 - *** validate register test case ***
+2025-04-30 09:16:29 INFO  TC_001Register:54 - *** end of register page ***
+2025-04-30 09:16:43 INFO  TC_002Login:17 - Starting the login test case...
+2025-04-30 09:16:46 INFO  TC_002Login:28 - Login test case passed!
+2025-04-30 09:16:46 INFO  TC_002Login:37 - Finished the login test case.
+2025-04-30 09:18:30 INFO  Utils:112 - [TestNG] Running:
+  D:\Java\ParabankProject\Grouping.xml
+
+2025-04-30 09:18:45 INFO  TC_002Login:17 - Starting the login test case...
+2025-04-30 09:18:50 INFO  TC_002Login:28 - Login test case passed!
+2025-04-30 09:18:50 INFO  TC_002Login:37 - Finished the login test case.
